@@ -1,2 +1,2 @@
-# mathworks-physionet_phonocardiogram
+# physionet_phonocardiogram
 This repository contains human phonocardiogram (PCG) data used in MathWorks' Wavelet Toolbox machine and deep learning examples. This data is sourced from https://www.physionet.org/challenge/2016/. In keeping with PhysioNet's copying policy, the PCGData.zip file contains a .txt file, Modified_physionet_data.txt, which contains the specific attributions for the orignal PhysioNet source files as well as a description of all data modifications.
